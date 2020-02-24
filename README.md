@@ -5,4 +5,6 @@ An temporary repository for self git learning.
 
 Hello, this is the first commit.
 
-Second commit comes.
+(delete 2nd commit)
+
+Here is 3rd commit.
