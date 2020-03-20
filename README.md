@@ -11,7 +11,7 @@ Here is 3rd commit.
 
 0320
 
-Theme: use "git rebase" to arrange commits
+Theme: use "git rebase -i" "git cherry-pick"to arrange commits
 
 an example for a process.
 
@@ -22,3 +22,7 @@ an example for a process.
 5. something wrong02
 6. lay down on bed
 7. have a little rest after work
+
+(when I tried to delete 3. and 5., conflict happened. 
+
+While "git cherry-pick" & "git rebase -i" can arrange modifications, this time modification are in the same file, so conflict happened and I have to use "git rebase --abort" )
