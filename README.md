@@ -18,3 +18,4 @@ an example for a process.
 1. open the door
 2. put down the bag
 3. something wrong01
+4. take off the coat
