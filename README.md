@@ -20,3 +20,4 @@ an example for a process.
 3. something wrong01
 4. take off the coat
 5. something wrong02
+6. lay down on bed
