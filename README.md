@@ -21,3 +21,4 @@ an example for a process.
 4. take off the coat
 5. something wrong02
 6. lay down on bed
+7. have a little rest after work
