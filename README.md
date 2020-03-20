@@ -16,3 +16,4 @@ Theme: use "git rebase" to arrange commits
 an example for a process.
 
 1. open the door
+2. put down the bag
